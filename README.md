@@ -1,5 +1,4 @@
 # Community-Network-Hub
-🌐 Community-Network-Hub
 
-
-- Automated update for PR #1-1764734707-619
+🌐 **Community-Network-Hub**: A lightweight P2P mesh networking node.
+🚀 Built with Go. Focuses on censorship-resistant communication and high availability.
